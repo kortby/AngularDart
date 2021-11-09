@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/core/app_host.dart","angular|lib/src/di/injector.template.dart","angular|lib/src/testability.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

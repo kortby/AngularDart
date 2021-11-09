@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/core/linker/component_resolver.dart","angular|lib/src/core/linker/component_factory.template.dart","angular|lib/src/reflector.template.dart","angular|lib/src/utilities.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

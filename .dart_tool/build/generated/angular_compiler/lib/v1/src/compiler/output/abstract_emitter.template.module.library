@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/compiler/output/abstract_emitter.dart","angular_compiler|lib/v1/src/compiler/output/output_ast.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

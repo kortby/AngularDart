@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","glob|lib/glob.dart","build_test|lib/src/in_memory_writer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

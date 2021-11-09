@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/di/injector.dart","angular|lib/src/testability.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta_meta.dart","angular|lib/src/meta/change_detection_constants.dart","angular|lib/src/meta/typed.dart","angular|lib/src/meta/view.dart","angular|lib/src/meta/visibility.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

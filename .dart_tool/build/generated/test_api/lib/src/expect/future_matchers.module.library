@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["matcher|lib/matcher.dart","test_api|lib/hooks.dart","test_api|lib/src/expect/async_matcher.dart","test_api|lib/src/expect/expect.dart","test_api|lib/src/expect/util/pretty_print.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["matcher|lib/matcher.dart","term_glyph|lib/term_glyph.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

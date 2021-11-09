@@ -1,0 +1,8 @@
+<h1 [hidden]="isVisible">learn direct</h1>
+<button (click)="toggleVisible">toggle show</button>
+<div class="di">
+    <ul>
+        <li *ngFor="let student of students; trackBy:trackByStudentId">{{student.id}}- {{student.name}}</li>
+    </ul>
+</div>
+<div class="test" myTextZoom>Test</div>

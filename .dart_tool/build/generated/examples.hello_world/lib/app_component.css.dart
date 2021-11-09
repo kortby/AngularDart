@@ -1,0 +1,1 @@
+final List<Object> styles = ['.red {\n  color: red;\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 250%;\n}\n\n.green {\n  color: green;\n}'];

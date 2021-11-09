@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/utilities.dart","angular|lib/src/utilities/is_dev_mode.template.dart","angular|lib/src/utilities/is_primitive.template.dart","angular|lib/src/utilities/unsafe_cast.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

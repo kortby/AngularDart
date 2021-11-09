@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/source_gen/template_compiler/lifecycle_hooks.dart","angular_compiler|lib/v1/angular_compiler.template.dart","angular_compiler|lib/v1/src/compiler/compile_metadata.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

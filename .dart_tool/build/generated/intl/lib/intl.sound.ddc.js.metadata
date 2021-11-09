@@ -1,0 +1,1 @@
+{"version":"1.0.2","name":"packages/intl/intl","closureName":"load__packages__intl__intl","sourceMapUri":"packages/intl/intl.sound.ddc.js.map","moduleUri":"packages/intl/intl.sound.ddc.js","fullDillUri":null,"libraries":[{"name":"intl","importUri":"package:intl/intl.dart","fileUri":"/packages/intl/intl.dart","partUris":[]}],"soundNullSafety":true}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/compiler/i18n/builder.dart","angular_compiler|lib/v1/src/compiler/i18n/message.template.dart","angular_compiler|lib/v1/src/compiler/i18n/metadata.template.dart","angular_compiler|lib/v2/context.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","examples.hello_world|lib/Todos/todo_service.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":false}

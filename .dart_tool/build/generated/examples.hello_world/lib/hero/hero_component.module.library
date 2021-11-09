@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","examples.hello_world|lib/hero/horo_list/hero_list_component.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

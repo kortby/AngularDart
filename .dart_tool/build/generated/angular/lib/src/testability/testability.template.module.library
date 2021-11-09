@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/testability/testability.dart","angular|lib/src/testability/js_api.template.dart","angular|lib/src/core/zone/ng_zone.template.dart","angular|lib/src/utilities.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

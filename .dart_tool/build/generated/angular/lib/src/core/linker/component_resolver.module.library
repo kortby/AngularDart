@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","angular|lib/src/reflector.dart","angular|lib/src/utilities.dart","angular|lib/src/core/linker/component_factory.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/bootstrap/modules.dart","angular|lib/src/core/application_tokens.template.dart","angular|lib/src/core/exception_handler.template.dart","angular|lib/src/core/linker/component_loader.template.dart","angular|lib/src/di/injector.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

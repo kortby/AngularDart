@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/dart2js.dart","meta|lib/meta.dart","angular|lib/src/core/linker/views/view.dart","angular|lib/src/runtime/check_binding.dart","angular|lib/src/utilities.dart","angular|lib/src/core/change_detection/change_detector_ref.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

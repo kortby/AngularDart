@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build|lib/build.dart","glob|lib/glob.dart","package_config|lib/package_config.dart","path|lib/path.dart","stream_transform|lib/stream_transform.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io","isolate"],"hasMain":false}

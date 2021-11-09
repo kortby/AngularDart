@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/core/linker/app_view_utils.dart","angular|lib/src/core/application_tokens.template.dart","angular|lib/src/runtime/dom_events.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/devtools.dart","angular|lib/src/devtools/inspector.template.dart","angular|lib/src/devtools/model.template.dart","angular|lib/src/utilities.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

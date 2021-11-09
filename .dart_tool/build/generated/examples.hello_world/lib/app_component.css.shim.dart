@@ -1,0 +1,1 @@
+final List<Object> styles = ['.red._ngcontent-%ID%{color:red;font-family:Arial,Helvetica,sans-serif;font-size:250%}.green._ngcontent-%ID%{color:green}'];

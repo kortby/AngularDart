@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["build_test|lib/src/debug_test_builder.dart","build_test|lib/src/test_bootstrap_builder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/core/linker.dart","angular|lib/src/meta.dart","angular|lib/src/runtime/check_binding.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

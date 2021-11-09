@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/angular_compiler/outliner.dart","angular_compiler|lib/v1/src/angular_compiler/analyzer.template.dart","angular_compiler|lib/v1/src/angular_compiler/outliner/collect_type_parameters.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

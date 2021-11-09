@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/meta/di_generate_injector.dart","angular|lib/src/meta/di_modules.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

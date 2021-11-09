@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/compiler/template_parser/recursive_template_visitor.dart","angular_compiler|lib/v1/src/compiler/template_ast.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

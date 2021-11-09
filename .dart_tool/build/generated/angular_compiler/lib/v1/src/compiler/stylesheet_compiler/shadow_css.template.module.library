@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/compiler/stylesheet_compiler/shadow_css.dart","angular_compiler|lib/v1/cli.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

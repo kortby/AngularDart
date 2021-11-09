@@ -1,0 +1,24 @@
+<div class="container">
+  <my-form></my-form>
+  <br>
+  <hr>
+  <hr>
+  <br>
+  <h1 [ngClass]="counter > 400 ? 'green' : 'red'">{{title}}</h1>
+  <h3>${{counter}}</h3>
+  <div *ngIf="counter > 400">Hey I am Rich!</div>
+  <div class="btn">
+    <button (click)="makeMoney()">Make money!</button>
+  </div>
+  <learn-direct></learn-direct>
+  <br>
+  <hr>
+  <hr>
+  <br>
+  <smart-co (change)="onIsSmartChanged($event)" [name]="title"></smart-co>
+  <br>
+  <hr>
+  <hr>
+  <br>
+  <my-heroes></my-heroes>
+</div>

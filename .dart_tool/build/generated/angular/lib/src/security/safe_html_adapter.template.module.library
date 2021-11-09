@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular|lib/src/security/safe_html_adapter.dart","angular|lib/src/security/html_sanitizer.template.dart","angular|lib/src/security/style_sanitizer.template.dart","angular|lib/src/security/url_sanitizer.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

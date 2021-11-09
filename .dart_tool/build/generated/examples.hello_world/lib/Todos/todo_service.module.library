@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["examples.hello_world|lib/Todos/todo_model.dart","http|lib/http.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","core"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/element/element.dart","build|lib/build.dart","build|lib/experiments.dart","build_test|lib/build_test.dart","package_config|lib/package_config.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io","isolate"],"hasMain":false}

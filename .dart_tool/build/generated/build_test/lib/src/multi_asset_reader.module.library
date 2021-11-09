@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","build|lib/build.dart","glob|lib/glob.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

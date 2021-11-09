@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["examples.hello_world|lib/hero/hero_service.dart","examples.hello_world|lib/hero/hero.template.dart","examples.hello_world|lib/hero/horo_list/mock_heros.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

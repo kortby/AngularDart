@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/di.dart","angular|lib/src/di/injector.template.dart","angular|lib/src/di/injector/runtime.template.dart","angular|lib/src/meta.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

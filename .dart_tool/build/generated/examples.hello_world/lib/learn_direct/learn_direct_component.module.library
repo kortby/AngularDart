@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","examples.hello_world|lib/learn_direct/text_zoom_directive.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","examples.hello_world|lib/form/form_component.dart","examples.hello_world|lib/hero/hero_component.dart","examples.hello_world|lib/learn_direct/learn_direct_component.dart","examples.hello_world|lib/smart_component/smart_component.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,41 @@
+<h1>My form</h1>
+
+<form [ngFormModel]="formGroup" novalidate>
+<div class="mb-3">
+    <label for="firstName" class="form-label">First name</label>
+    <input type="text"
+           class="form-control"
+           id="firstName"
+           [ngFormControl]="firstNameControl"
+           [ngClass]="firstNameControl.valid ? 'is-valid':'is-invalid'"
+           placeholder="firstName">
+    <div *ngIf="firstNameControl.invalid" class="invalid-feedback">
+        First name is required!
+    </div>
+</div>
+<div class="mb-3">
+    <label for="lastName" class="form-label">Last name</label>
+    <input type="text"
+           class="form-control"
+           id="lastName"
+           [ngFormControl]="firstNameControl"
+           placeholder="lastName">
+</div>
+<div class="mb-3">
+    <label for="description" class="form-label">Description</label>
+    <textarea class="form-control"
+              id="description"
+              rows="3"
+              [ngFormControl]="descriptionControl"
+    ></textarea>
+</div>
+<div class="mb-3">
+    <button type="submit"
+            class="btn btn-primary mb-3"
+            [disabled]="!formGroup.valid">Submit</button>
+    <button type="button"
+            class="btn mb-3"
+    (click)="clearFrom()">Clear</button>
+</div>
+
+</form>

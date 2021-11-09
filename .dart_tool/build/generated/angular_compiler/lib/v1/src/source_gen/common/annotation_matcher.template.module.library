@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_compiler|lib/v1/src/source_gen/common/annotation_matcher.dart","angular|lib/src/meta.template.dart","angular_compiler|lib/v1/angular_compiler.template.dart","angular_compiler|lib/v1/cli.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

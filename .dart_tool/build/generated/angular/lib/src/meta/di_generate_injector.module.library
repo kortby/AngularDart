@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta_meta.dart","angular|lib/src/meta/di_modules.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
